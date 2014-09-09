@@ -79,14 +79,13 @@ TODO:
 Major things left to do:
 
 1. Implement references properly
-2. Implement Error Handling
-3. Implement classes and objects
-4. Implement Output Buffering.
-5. Refactor output control to use SAPI modules
-6. Implement true array hash tables (as opposed to the current reliance on the underlying hash table)
-7. Implement Error Handling
-8. Implement Exception Handling
-9. Implement parameter parsing for core functions
+2. Implement classes and objects
+3. Implement Output Buffering
+4. Refactor output control to use SAPI modules
+5. Implement true array hash tables (as opposed to the current reliance on the underlying hash table)
+6. Implement Error Handling
+7. Implement Exception Handling
+8. Implement parameter parsing for core functions
 
 For The Love Of God, Why?
 =========================
